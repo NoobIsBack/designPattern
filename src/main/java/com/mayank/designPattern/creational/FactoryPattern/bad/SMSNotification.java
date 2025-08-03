@@ -1,4 +1,4 @@
-package com.mayank.designPattern.FactoryPattern.bad;
+package com.mayank.designPattern.creational.FactoryPattern.bad;
 
 public class SMSNotification implements Notification {
     @Override

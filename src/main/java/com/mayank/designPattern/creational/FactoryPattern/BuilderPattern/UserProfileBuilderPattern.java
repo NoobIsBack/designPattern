@@ -1,4 +1,4 @@
-package com.mayank.designPattern.BuilderPattern;
+package com.mayank.designPattern.creational.FactoryPattern.BuilderPattern;
 
 public class UserProfileBuilderPattern {
 
